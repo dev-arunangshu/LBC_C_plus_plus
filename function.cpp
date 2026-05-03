@@ -1,7 +1,7 @@
 
 #include<iostream>
 using namespace std;
-//creating a function named as square, which would the square of a given number
+//creating a function named as square, which would find the square of a given number
 int square(int n){
     return n*n;
 }
